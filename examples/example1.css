@@ -11,16 +11,12 @@ font-size: 15px;
 }
 
 body {
-	font-family: 'Fira Sans', Sans-Serif;
+	font-family: 'Prompt', sans-serif;
 	font-size: 20px;
-	color: #666;
+	color: rgb(0, 0, 0);
 	margin: 0;
 }
-header {
-	background-image: url(../images/sojourner-header.png);
-	background-size: cover;
-	width: 100vw;
-}
+
 header.grid-header {
 	display: flex;
 	justify-content: space-between;
@@ -28,7 +24,7 @@ header.grid-header {
 
 h1, h2 {
 	font-family: 'Cormorant Garamond', Serif;
-	color: rgba(255,255,255,.6);
+	color: rgba(0, 0, 0, 0.6);
 }
 
 h1 {
